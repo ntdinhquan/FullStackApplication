@@ -1,0 +1,28 @@
+.wrapNewComment {
+    margin-top: 30px;
+  }
+  
+  .wrapNewComment form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .wrapNewComment label {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .wrapNewComment input[type="text"] {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .submitButton {
+    margin-top: 5px;
+    text-align: right;
+  }
+  

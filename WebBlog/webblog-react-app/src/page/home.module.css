@@ -1,0 +1,23 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+}
+
+.containerBody{
+    display: flex;    
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.leftHomePage{
+    flex-basis: 70%;
+}
+.rightHomePage{
+    flex-basis: 30%;
+}
+
+/* footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+} */
