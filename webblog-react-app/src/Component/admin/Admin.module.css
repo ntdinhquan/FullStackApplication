@@ -1,0 +1,65 @@
+.Container {
+    display: flex;
+}
+
+.sideBar {
+    position: fixed;
+    height: 100%;
+    width: 195px;
+    padding: 10px;
+    background-color: #427D9D;
+    color: white;
+    
+}
+.funcSidebar{
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    height: 40px;
+    margin-top: 5px;
+    width: 180px;
+    background-color: #427d9d00;
+    color: white;
+    border: none;
+}
+
+
+.selectedButton {
+    background-color: #4f505386; 
+    border-radius: 5px;
+}
+
+
+/* .element{
+    margin: 2px ;
+} */
+
+.iconUser{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.iconPost{
+    margin-left: 5px;
+    margin-right: 9px;
+    
+}
+.contentInner {
+    margin-left: 225px;
+    width: 1300px;
+    align-items: center;
+}
+
+
+.titlesideBar {
+    margin-top: 20px;
+    font-size: 18px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+
+}
+.subtitlesideBar{
+    margin-top: 15px;
+    font-size: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}

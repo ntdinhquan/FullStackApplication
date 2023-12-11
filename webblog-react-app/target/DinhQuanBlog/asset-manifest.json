@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "http://localhost:8080/DinhQuanBlog/static/css/main.6df56212.css",
+    "main.js": "http://localhost:8080/DinhQuanBlog/static/js/main.34dc3fcf.js",
+    "static/js/787.504fa24e.chunk.js": "http://localhost:8080/DinhQuanBlog/static/js/787.504fa24e.chunk.js",
+    "static/media/googleads-removebg-preview.png": "http://localhost:8080/DinhQuanBlog/static/media/googleads-removebg-preview.3295e19a69d9324148b3.png",
+    "static/media/logoweb.ico": "http://localhost:8080/DinhQuanBlog/static/media/logoweb.fa257b3bb3738b31f5f3.ico",
+    "index.html": "http://localhost:8080/DinhQuanBlog/index.html",
+    "main.6df56212.css.map": "http://localhost:8080/DinhQuanBlog/static/css/main.6df56212.css.map",
+    "main.34dc3fcf.js.map": "http://localhost:8080/DinhQuanBlog/static/js/main.34dc3fcf.js.map",
+    "787.504fa24e.chunk.js.map": "http://localhost:8080/DinhQuanBlog/static/js/787.504fa24e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6df56212.css",
+    "static/js/main.34dc3fcf.js"
+  ]
+}

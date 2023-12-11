@@ -1,0 +1,5 @@
+# Created at 2023-12-09T11:33:11.187
+Boot Manifest-JAR contains absolute paths in classpath 'D:\HK6\JavaSpring\transGit\fileUPdate\WebBlog\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
