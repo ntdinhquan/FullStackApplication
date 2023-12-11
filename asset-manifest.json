@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/FullStackApplication/static/css/main.49431d3b.css",
-    "main.js": "/FullStackApplication/static/js/main.57700f00.js",
-    "static/js/787.504fa24e.chunk.js": "/FullStackApplication/static/js/787.504fa24e.chunk.js",
+    "main.css": "/FullStackApplication/static/css/main.3bca3434.css",
+    "main.js": "/FullStackApplication/static/js/main.741e1461.js",
+    "static/js/787.c48deadf.chunk.js": "/FullStackApplication/static/js/787.c48deadf.chunk.js",
     "static/media/googleads-removebg-preview.png": "/FullStackApplication/static/media/googleads-removebg-preview.3295e19a69d9324148b3.png",
     "static/media/logoweb.ico": "/FullStackApplication/static/media/logoweb.fa257b3bb3738b31f5f3.ico",
     "index.html": "/FullStackApplication/index.html",
-    "main.49431d3b.css.map": "/FullStackApplication/static/css/main.49431d3b.css.map",
-    "main.57700f00.js.map": "/FullStackApplication/static/js/main.57700f00.js.map",
-    "787.504fa24e.chunk.js.map": "/FullStackApplication/static/js/787.504fa24e.chunk.js.map"
+    "main.3bca3434.css.map": "/FullStackApplication/static/css/main.3bca3434.css.map",
+    "main.741e1461.js.map": "/FullStackApplication/static/js/main.741e1461.js.map",
+    "787.c48deadf.chunk.js.map": "/FullStackApplication/static/js/787.c48deadf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49431d3b.css",
-    "static/js/main.57700f00.js"
+    "static/css/main.3bca3434.css",
+    "static/js/main.741e1461.js"
   ]
 }
